@@ -48,15 +48,6 @@ Browse and purchase beauty products directly from salons and verified cosmetic v
 
 ---
 
-### ⚙️ Technology Highlights
-
-- **Mobile App:** Flutter
-- **Backend:** .NET 9 with PostgreSQL & Redis
-- **Architecture:** Multi-tenant SaaS, CQRS, DDD
-- **Infrastructure:** Secure, scalable, and fast API-first design
-
----
-
 ### 🌍 Connect With Us
 
 - **LinkedIn:** [Hareer on LinkedIn](https://www.linkedin.com/company/hareer-app)
